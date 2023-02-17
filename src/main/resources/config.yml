@@ -1,0 +1,20 @@
+# ================================================= #
+#
+#                    DiscordLinker
+#                       Config
+#
+# ================================================= #
+
+# Enter the url of the Webhook here, if empty nothing will happen
+webhook-url: ""
+
+# The username that will be displayed on the Webhook when it sends a message. Leave empty for the default name of the Webhook.
+username: "CyberHook"
+avatar-url: ""
+
+# Webhook's notifications
+server-start: true
+server-shutdown: true
+server-chat: true
+player-join-server: true
+player-quit-server: true

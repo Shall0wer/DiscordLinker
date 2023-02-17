@@ -1,0 +1,8 @@
+name: DiscordLinker
+version: '${project.version}'
+main: fr.shall0wer.discordlinker.DiscordLinker
+authors: [ Shall0wer ]
+website: www.celestoria.fr
+commands:
+  webhook:
+    description: Only command of the plugin. Allows to have some information about the plugin.
